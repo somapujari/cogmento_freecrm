@@ -38,3 +38,26 @@ clicking save button  : 2023-07-01 09:53:16,999 : Test_AddContact : INFO : test_
 verifying the customer created  : 2023-07-01 09:53:20,407 : Test_AddContact : INFO : test_addcontact  : 80
 customer created : 2023-07-01 09:53:20,444 : Test_AddContact : INFO : test_addcontact  : 83
 test_addtocontact is completed : 2023-07-01 09:53:20,654 : Test_AddContact : INFO : test_addcontact  : 89
+test_addcontact started  : 2023-07-01 11:03:13,623 : Test_AddContact : INFO : test_addcontact  : 17
+opening url : 2023-07-01 11:03:13,623 : Test_AddContact : INFO : test_addcontact  : 19
+clicking login link  : 2023-07-01 11:03:17,767 : Test_AddContact : INFO : test_addcontact  : 23
+test_addcontact started  : 2023-07-01 11:03:33,326 : Test_AddContact : INFO : test_addcontact  : 17
+opening url : 2023-07-01 11:03:33,326 : Test_AddContact : INFO : test_addcontact  : 19
+clicking login link  : 2023-07-01 11:03:41,681 : Test_AddContact : INFO : test_addcontact  : 23
+entering username : 2023-07-01 11:03:50,558 : Test_AddContact : INFO : test_addcontact  : 25
+entering password  : 2023-07-01 11:03:50,776 : Test_AddContact : INFO : test_addcontact  : 27
+clicking login : 2023-07-01 11:03:50,924 : Test_AddContact : INFO : test_addcontact  : 29
+verifying login  : 2023-07-01 11:03:51,000 : Test_AddContact : INFO : test_addcontact  : 31
+creating addtocontact  object : 2023-07-01 11:03:51,006 : Test_AddContact : INFO : test_addcontact  : 34
+entering firat_name : 2023-07-01 11:03:55,317 : Test_AddContact : INFO : test_addcontact  : 38
+entering last_name : 2023-07-01 11:03:56,218 : Test_AddContact : INFO : test_addcontact  : 40
+entering middle_name : 2023-07-01 11:03:56,972 : Test_AddContact : INFO : test_addcontact  : 42
+enter company name : 2023-07-01 11:03:57,214 : Test_AddContact : INFO : test_addcontact  : 44
+enter a email : 2023-07-01 11:03:57,483 : Test_AddContact : INFO : test_addcontact  : 47
+select category : 2023-07-01 11:03:58,526 : Test_AddContact : INFO : test_addcontact  : 49
+select status  : 2023-07-01 11:03:58,910 : Test_AddContact : INFO : test_addcontact  : 51
+selecting  year : 2023-07-01 11:04:08,633 : Test_AddContact : INFO : test_addcontact  : 72
+clicking save button  : 2023-07-01 11:04:09,033 : Test_AddContact : INFO : test_addcontact  : 74
+verifying the customer created  : 2023-07-01 11:04:12,355 : Test_AddContact : INFO : test_addcontact  : 80
+customer created : 2023-07-01 11:04:12,402 : Test_AddContact : INFO : test_addcontact  : 83
+test_addtocontact is completed : 2023-07-01 11:04:12,493 : Test_AddContact : INFO : test_addcontact  : 89

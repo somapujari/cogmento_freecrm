@@ -16,14 +16,13 @@ def setup(browser):
     else:
         driver = webdriver.Firefox()
         return driver
+    return driver
 
 
-
-
-@pytest.fixture()
 def pytest_addoption(parser):
     parser.addoption('--browser')
 
 
+@pytest.fixture()
 def browser(request):
       return request.config.getoption('--browser')
