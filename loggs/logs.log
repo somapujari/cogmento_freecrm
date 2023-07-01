@@ -1,0 +1,40 @@
+test_addcontact started  : 2023-07-01 09:48:46,610 : root : INFO : test_addcontact  : 17
+opening url : 2023-07-01 09:48:46,611 : root : INFO : test_addcontact  : 19
+clicking login link  : 2023-07-01 09:49:34,525 : root : INFO : test_addcontact  : 23
+entering username : 2023-07-01 09:49:45,894 : root : INFO : test_addcontact  : 25
+entering password  : 2023-07-01 09:49:46,131 : root : INFO : test_addcontact  : 27
+clicking login : 2023-07-01 09:49:46,302 : root : INFO : test_addcontact  : 29
+verifying login  : 2023-07-01 09:49:46,386 : root : INFO : test_addcontact  : 31
+creating addtocontact  object : 2023-07-01 09:49:46,395 : root : INFO : test_addcontact  : 34
+entering firat_name : 2023-07-01 09:49:50,255 : root : INFO : test_addcontact  : 38
+entering last_name : 2023-07-01 09:49:51,209 : root : INFO : test_addcontact  : 40
+entering middle_name : 2023-07-01 09:49:51,882 : root : INFO : test_addcontact  : 42
+enter company name : 2023-07-01 09:49:52,234 : root : INFO : test_addcontact  : 44
+enter a email : 2023-07-01 09:49:52,524 : root : INFO : test_addcontact  : 47
+select category : 2023-07-01 09:49:53,608 : root : INFO : test_addcontact  : 49
+select status  : 2023-07-01 09:49:54,105 : root : INFO : test_addcontact  : 51
+selecting  year : 2023-07-01 09:50:05,139 : root : INFO : test_addcontact  : 72
+clicking save button  : 2023-07-01 09:50:05,512 : root : INFO : test_addcontact  : 74
+verifying the customer created  : 2023-07-01 09:50:08,936 : root : INFO : test_addcontact  : 80
+customer created : 2023-07-01 09:50:08,976 : root : INFO : test_addcontact  : 83
+test_addtocontact is completed : 2023-07-01 09:50:09,256 : root : INFO : test_addcontact  : 89
+test_addcontact started  : 2023-07-01 09:52:44,923 : Test_AddContact : INFO : test_addcontact  : 17
+opening url : 2023-07-01 09:52:44,923 : Test_AddContact : INFO : test_addcontact  : 19
+clicking login link  : 2023-07-01 09:52:51,619 : Test_AddContact : INFO : test_addcontact  : 23
+entering username : 2023-07-01 09:52:59,980 : Test_AddContact : INFO : test_addcontact  : 25
+entering password  : 2023-07-01 09:53:00,262 : Test_AddContact : INFO : test_addcontact  : 27
+clicking login : 2023-07-01 09:53:00,415 : Test_AddContact : INFO : test_addcontact  : 29
+verifying login  : 2023-07-01 09:53:00,495 : Test_AddContact : INFO : test_addcontact  : 31
+creating addtocontact  object : 2023-07-01 09:53:00,503 : Test_AddContact : INFO : test_addcontact  : 34
+entering firat_name : 2023-07-01 09:53:04,429 : Test_AddContact : INFO : test_addcontact  : 38
+entering last_name : 2023-07-01 09:53:05,375 : Test_AddContact : INFO : test_addcontact  : 40
+entering middle_name : 2023-07-01 09:53:05,880 : Test_AddContact : INFO : test_addcontact  : 42
+enter company name : 2023-07-01 09:53:06,122 : Test_AddContact : INFO : test_addcontact  : 44
+enter a email : 2023-07-01 09:53:06,394 : Test_AddContact : INFO : test_addcontact  : 47
+select category : 2023-07-01 09:53:07,490 : Test_AddContact : INFO : test_addcontact  : 49
+select status  : 2023-07-01 09:53:07,785 : Test_AddContact : INFO : test_addcontact  : 51
+selecting  year : 2023-07-01 09:53:16,572 : Test_AddContact : INFO : test_addcontact  : 72
+clicking save button  : 2023-07-01 09:53:16,999 : Test_AddContact : INFO : test_addcontact  : 74
+verifying the customer created  : 2023-07-01 09:53:20,407 : Test_AddContact : INFO : test_addcontact  : 80
+customer created : 2023-07-01 09:53:20,444 : Test_AddContact : INFO : test_addcontact  : 83
+test_addtocontact is completed : 2023-07-01 09:53:20,654 : Test_AddContact : INFO : test_addcontact  : 89

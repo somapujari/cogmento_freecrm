@@ -1,0 +1,1 @@
+pytest -v -s   C:\Users\Dell\PycharmProjects\cogmento_freecrm\testcases\test_addcustomer.py --browser chrome
